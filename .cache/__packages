@@ -1,0 +1,11 @@
+base
+bitops
+datasets
+graphics
+grDevices
+methods
+RCurl
+rmarkdown
+slidify
+stats
+utils
